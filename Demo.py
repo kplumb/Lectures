@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 import numpy as np
-some message
 
 def quadratic(x, a):
     return a*x**2
